@@ -1,0 +1,3 @@
+[submodule "vendor/aws-lambda-cpp"]
+	path = vendor/aws-lambda-cpp
+	url = https://github.com/insufficientchocolate/aws-lambda-cpp
